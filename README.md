@@ -8,7 +8,7 @@ Datasets
 * Trees
  * Originally collected 1998, last updated ~2008
 * Soft Landscape
- * Current, summer 2015.
+ * This and all other datasets current summer 2015.
 * Water Features
 * Stairs
 * Barriers
@@ -18,7 +18,7 @@ Datasets
 
 Files Provided
 --------------
-* Provided in geojson, csv, and file geodatabase formats.
+* Provided in geojson, csv (where appropriate), and file geodatabase formats.
 * FGDB is ESPG:26910/UTM10N, geojson ESPG:4326.
 * csv data has lat/long columns.
 
