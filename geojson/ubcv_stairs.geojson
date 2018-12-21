@@ -605,6 +605,110 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.25800638505459, 49.27159847075181 ],
+					[ -123.25803216474876, 49.27158322388156 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C53BAE5F-0508-4177-8423-4EC8A8FB44FE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25770254623868, 49.27163009321287 ],
+					[ -123.25772848708489, 49.271628343355545 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BA290B8B-C67B-48EB-ABD8-E217E7DA333B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25770412615171, 49.271634392095464 ],
+					[ -123.25772965285536, 49.27163310011798 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C3C9C2DE-D318-4FD7-A953-647F8CC96E16}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25770543413388, 49.27163794858067 ],
+					[ -123.25773064445549, 49.27163714484868 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{66D86DED-A9ED-447A-B152-0B8DA55C20D6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2577069666339, 49.271642118038045 ],
+					[ -123.25773152091007, 49.271640724784135 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{95CCC68F-30C3-441F-B53F-95E1B670B5D1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25770825091908, 49.27164561160961 ],
+					[ -123.25773248863972, 49.27164467331937 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AF4BE18B-26A3-424E-8784-ADEF192BB31F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25803108247689, 49.27161899393066 ],
+					[ -123.25805013138753, 49.2716123821918 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{DF1F86AE-636A-4FDB-87CC-2EB208D5890D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25803272332156, 49.27162126425408 ],
+					[ -123.25805174845995, 49.27161457520929 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{6B1089EF-38AE-4889-8F6A-D46B07598F2D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.25321236514198, 49.26279421997946 ],
 					[ -123.25317194255635, 49.26274607620253 ]
 				]
@@ -624,6 +728,45 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{EC87E7E0-8AC9-477C-AFCF-BB0D22FF75C2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25803446801267, 49.271623677369334 ],
+					[ -123.25805352612976, 49.27161698555205 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{6BAF7BD3-0A35-46F2-B9D8-D1A4A97B5390}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25803601192696, 49.27162581298112 ],
+					[ -123.25805513766157, 49.27161917048619 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CB8F9733-5711-4179-8EFB-266B34121356}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25803750460327, 49.27162787674568 ],
+					[ -123.2580567741159, 49.27162138954642 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CD0B42B1-582C-4823-A536-AE958BC57C22}"
 			}
 		},
 		{
@@ -663,6 +806,19 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{8EA99EEE-4323-4F55-AAB2-6AE3FB76DE8A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2580392700697, 49.27163031949864 ],
+					[ -123.2580584853375, 49.271623710984976 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{B6FBAB2A-F655-4B81-83DA-889591953CA4}"
 			}
 		},
 		{
@@ -1512,12 +1668,583 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.25254867907819, 49.26545701960228 ],
+					[ -123.25252805130266, 49.265431618128396 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{61C115D9-0BE3-4424-A118-ECCDE576397F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24956223948938, 49.26829869043956 ],
+					[ -123.2495411456145, 49.26827238093576 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{FB0E7B03-E491-4D5C-B6A9-7D9170C50B96}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24956884195429, 49.26829629514686 ],
+					[ -123.24954731073878, 49.26827021506712 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BBDE198F-A3FD-42B2-8446-411FFDDA8365}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24955308617187, 49.268268186766974 ],
+					[ -123.24957455119194, 49.268294223811644 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{833FAB06-532C-465A-8A5D-4DFF077973AE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24958026316924, 49.26829215067118 ],
+					[ -123.24955886022539, 49.268266157570025 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1453D066-9B7F-422F-864A-88709A396CAE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24837252520715, 49.26830573719925 ],
+					[ -123.24831902229954, 49.268240087325914 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{36EB8CD6-5765-4DED-9AEC-2487E9D33D87}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24836320817339, 49.268308742736664 ],
+					[ -123.24831047102298, 49.26824311280188 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{D17F3CAB-B966-47F1-B909-BEA4D0D2EF1C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.24946701463821, 49.268439399439714 ],
 					[ -123.24953107497348, 49.26841649333767 ]
 				]
 			},
 			"properties" : {
 				"GLOBALID" : "{6CC16CFC-5930-43AF-9B9B-0214C8C236DF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25856049718875, 49.27092950544106 ],
+					[ -123.25858639304391, 49.270915015581465 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{4D0FE185-8F3E-4DEC-B6A1-93FCD356B157}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25855746188923, 49.27092686854231 ],
+					[ -123.25858362145404, 49.27091259847576 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{093BB7AA-35F6-4C50-A83A-B94E8BABF624}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25855474559638, 49.27092451068055 ],
+					[ -123.25858086090868, 49.27091019034049 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{E45D0C4D-F16A-405E-A5B4-975509855907}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25855245324435, 49.27092251977396 ],
+					[ -123.25857862927121, 49.270908243375054 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1D491E59-C718-4F7D-85CC-362A8F711E94}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2590497338951, 49.268728256516404 ],
+					[ -123.25908193439389, 49.2687081097094 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{69F1D9B5-3BCB-4A8A-A8F2-C2EC59A035E6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25904438780513, 49.26872453369142 ],
+					[ -123.25907504588474, 49.26870515313813 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{051EF675-C756-4C36-BB03-2B6E20AAD88F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2590388803003, 49.26872069878796 ],
+					[ -123.2590692600297, 49.2687011884297 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{723930E8-EC7B-4CD0-9183-B48F1FEB1F86}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25903201799039, 49.268715919725985 ],
+					[ -123.25906282577324, 49.26869677721334 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{5B3C51F3-AF0A-4BB0-95F6-CF5ABB5BF39F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25518208570256, 49.26823064691856 ],
+					[ -123.25511677038044, 49.26815143001535 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{51A8C35A-4372-4C29-AC6A-6A41B2BE07CB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25900194608793, 49.268694978827924 ],
+					[ -123.25903222311342, 49.26867580602988 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{906DC9A3-2540-4AA1-B745-D22BCAAF035B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25900767984841, 49.268698971541646 ],
+					[ -123.2590380103371, 49.26867977073711 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{483E231E-7081-49C9-A676-6603AD01C482}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2590134301661, 49.26870297591175 ],
+					[ -123.25904380032969, 49.26868373903595 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{706DC2E4-C5B2-4A3C-B1CF-2BACD1771D74}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25901905631493, 49.26870689330641 ],
+					[ -123.25904946478825, 49.26868762216143 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{12646814-056F-4122-AB08-A33E438E1654}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25902497770991, 49.2687110169287 ],
+					[ -123.25905550999535, 49.268691764394525 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C17D8488-4B53-40BE-B1B4-DC1AB407EFA8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2551799095673, 49.26823141631744 ],
+					[ -123.25511412771783, 49.26815236055782 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3BE94062-5501-4522-B2A6-AB48E32049C8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25517703092906, 49.26823243553557 ],
+					[ -123.25511144526209, 49.268153304680915 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{0F298830-61F7-4B08-ADE4-B00922662429}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25510269383936, 49.268258730769205 ],
+					[ -123.25503771823116, 49.26817926660296 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{0707CE03-3A13-437B-B795-2B2D4D19D74B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25510016644515, 49.26825962417649 ],
+					[ -123.2550354597512, 49.26818006136748 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{6C065522-6DF3-40E3-8D1D-384BE250ABDE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25509744696248, 49.268260586371426 ],
+					[ -123.25503291450885, 49.268180958410795 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{59AD313F-8EC7-4863-AB7B-519B416291DB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2540595646509, 49.26571976587723 ],
+					[ -123.25404400105897, 49.26572594832673 ],
+					[ -123.25398607920528, 49.26571025218666 ],
+					[ -123.25395653896763, 49.26567348621754 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A2A9C290-D921-43C3-B38D-40A89C35420A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25406345537182, 49.26572447711049 ],
+					[ -123.25404229251426, 49.265732639124984 ],
+					[ -123.2539783942385, 49.265715337882455 ],
+					[ -123.25394735326589, 49.26567674378441 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{54200AF8-2498-448C-8F90-1B5576D6DDFB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25393956702467, 49.26567950443756 ],
+					[ -123.25397086048389, 49.26571935551352 ],
+					[ -123.25403888872205, 49.26573790161255 ],
+					[ -123.25406669878294, 49.26572840268582 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{066B1308-A923-428D-B695-8A6B203E232A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25407058950523, 49.26573311391882 ],
+					[ -123.25403619679395, 49.26574527910857 ],
+					[ -123.2539655751967, 49.26572359218269 ],
+					[ -123.25393183567053, 49.26568224697913 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BEE1DA42-15B1-482F-929F-0DF6953CED3F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25454440292607, 49.266201040083764 ],
+					[ -123.25457204870695, 49.266234920811385 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CA67947B-93AD-4885-9657-CDF130CB87EA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25453536397073, 49.266204245201536 ],
+					[ -123.2545630856977, 49.266237926969765 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AEB23A53-622D-49F6-8C35-0EC8CF2625ED}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25524072344103, 49.26694660760093 ],
+					[ -123.25524850529743, 49.26695602908554 ],
+					[ -123.25526521998566, 49.266950182152115 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C5A942D0-551A-45BD-9E2F-6C9FCC4B7D49}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2552374606986, 49.26694776169799 ],
+					[ -123.25524667618895, 49.26695904292407 ],
+					[ -123.25526676921199, 49.26695206682434 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A3E848C6-BA28-4EC1-BDE0-492A72844655}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25523346116378, 49.26694917648462 ],
+					[ -123.25524402315351, 49.266962213300374 ],
+					[ -123.2552682755585, 49.26695389941905 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3754BDAE-E464-42F9-87F2-1470AD7CCD12}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2552298622709, 49.26695045006084 ],
+					[ -123.25524207367773, 49.26696560880169 ],
+					[ -123.25527004194771, 49.26695604717115 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F62ABECF-7341-460A-9D16-EE4D956A0A08}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25259234759609, 49.265558568258456 ],
+					[ -123.25255768325711, 49.265516214512445 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C73421F7-EDDA-4635-AD12-83FA42E0EB0B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25260246768445, 49.2655549723355 ],
+					[ -123.2525675397335, 49.26551267763764 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1A70FD1F-53EB-4F0D-A102-329184F0155C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25261382671533, 49.26555093653552 ],
+					[ -123.25257861592252, 49.26550870362681 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{2E0D4D9B-1399-4F03-86EC-3979CA41B4D5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25262444073512, 49.2655471659231 ],
+					[ -123.25258920779241, 49.26550490338181 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{23A8A0A8-CC8E-47A3-A23A-4C4B69F07DC7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25251788265524, 49.265466905188326 ],
+					[ -123.2524973736473, 49.265442419162206 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{6C49DCBE-6AAD-46EA-98CD-1E77DED099B5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25252772181427, 49.26546374705321 ],
+					[ -123.25250801115239, 49.2654386745952 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{EF8E0053-B2F0-412E-837E-6F28C8D8E134}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25253985814356, 49.26545985078642 ],
+					[ -123.25251939092873, 49.26543466754375 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{38F8E280-9329-4D69-B057-473459374881}"
 			}
 		},
 		{
@@ -4043,6 +4770,305 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{5189CF08-5530-4069-BB9D-0EC5781BF6DA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25766638278341, 49.27155178425319 ],
+					[ -123.25777724681461, 49.27155228177515 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CA631D46-F1C7-4A85-9B92-1FF0EE060C3E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25020510493061, 49.26498380779157 ],
+					[ -123.25017817249811, 49.26495055233511 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{58F614A1-0B83-4E25-A108-685815418BE1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25766622623387, 49.27155815050864 ],
+					[ -123.25777728543217, 49.27155837414112 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A5E9032C-2852-46B1-88DB-124C5CBA4550}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25021144797233, 49.26498157673518 ],
+					[ -123.25018441411586, 49.264948379069175 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F8E4D1AD-7D35-4DEB-BF9D-04CFDE0CD5B8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2502170226608, 49.26497961629932 ],
+					[ -123.25019000399834, 49.26494643389356 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AFDA336D-2842-4E3E-A17E-9D2BB1262B71}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25022382534034, 49.26497722323252 ],
+					[ -123.25019670252298, 49.264944102221335 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{50A011D1-7E62-408A-9A49-44CFC4E3A664}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25766653189204, 49.271546628768874 ],
+					[ -123.25777725659263, 49.27154518813491 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F90E5162-5F27-4687-B404-6CD7D158EF96}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25859280651669, 49.270957746445724 ],
+					[ -123.25861915365148, 49.2709435928891 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{10CEB06C-6162-4C46-8B83-339E25C6865A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25859086206425, 49.270956039909315 ],
+					[ -123.25861751168621, 49.270942160929394 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BA077C53-4BFB-4004-925D-15708FB820B4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25766712543943, 49.27153917761673 ],
+					[ -123.25777737752239, 49.27153884804485 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AA59C248-D3BE-48EA-B656-8158DAF1099E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2576660683893, 49.27156453205882 ],
+					[ -123.25777732955824, 49.27156525987184 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{9C3DE18C-16AC-4F74-BD40-1E13932B15B1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25858831687859, 49.27095380669876 ],
+					[ -123.25861518752106, 49.270940133214935 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{B7CE3F08-B280-4BE0-8391-9E282A4977BC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2585860658433, 49.27095183099227 ],
+					[ -123.25861271007388, 49.27093797271447 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3162DD1E-95D5-4AA3-8556-3A370B4499AF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25858407306224, 49.27095008318596 ],
+					[ -123.25861037071743, 49.270935931541096 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3A92807D-ADF9-40E0-B4DE-7F9E1058F577}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25858166735641, 49.2709479719979 ],
+					[ -123.25860803827203, 49.27093389754838 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{58D2D32A-7F2D-4C3C-A76D-E730A4563E0B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25857951990479, 49.270946088710076 ],
+					[ -123.25860551386637, 49.27093169487537 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BB8BB6A4-2FC2-4587-9AD1-24DE3852922B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25857716115374, 49.270944018794786 ],
+					[ -123.25860311236909, 49.27092959986972 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{FF83BAC1-D019-4755-80E8-B3E77BADCAAE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25857441987083, 49.27094161421432 ],
+					[ -123.25860013086672, 49.2709269988325 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{BEF5751F-581B-45FA-BDBE-5E3B6311BC48}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25857210669527, 49.270939584675375 ],
+					[ -123.25859753603953, 49.270924736049054 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F4631EC7-D67F-477F-A536-277B469D85DA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2585697093982, 49.27093750405193 ],
+					[ -123.25859540935853, 49.27092288149969 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{79D65FE3-2CC4-4EAA-8AEB-B75A8EC3339A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25856728724007, 49.270935400996095 ],
+					[ -123.25859298714832, 49.27092076854976 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{59E39211-646A-46B3-9DE6-166888C52E9D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25856470903199, 49.27093316156225 ],
+					[ -123.2585902887387, 49.27091841334733 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A429F5C1-E506-406E-AE6B-FBA48D7F5A42}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25856266110654, 49.270931383295284 ],
+					[ -123.25858826839061, 49.270916651210484 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{339050F7-CFC6-4093-B3C2-AAF886C77D26}"
 			}
 		},
 		{
@@ -7724,6 +8750,162 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.25259894280526, 49.26860715772573 ],
+					[ -123.25258399582015, 49.268588934625456 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{2998D9FA-1AA1-429D-986C-300F32FF1296}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2526043148086, 49.26860528397318 ],
+					[ -123.25258936919205, 49.268587059971104 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{D84CD9EA-5C24-4B6B-BBDC-EC72298FE0E1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25259595005996, 49.26858476349999 ],
+					[ -123.25261082021369, 49.26860301465184 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C34B6FD7-A78B-4FB9-A031-8C888CF03BEE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25604209512761, 49.271442040142894 ],
+					[ -123.2560090129452, 49.271449918585816 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{500C238E-B7F7-4CAB-BE1E-525307031C68}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2559941671181, 49.27142429085786 ],
+					[ -123.2560277791989, 49.271416274517904 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{86BBA3BA-EFA1-46CC-B65F-AE5F96F39320}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25603498501795, 49.27142924043024 ],
+					[ -123.25600157082245, 49.27143697928154 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{83883901-E198-4362-B003-7717D4E77017}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25599806685953, 49.27143088829611 ],
+					[ -123.25603151741332, 49.271423003642916 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1D314DF9-B7E1-4DAC-AEF7-16C6B6DC6364}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25600563243353, 49.271444041412956 ],
+					[ -123.25603885114012, 49.271435715606806 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{559A61F2-E72F-4FD2-BDA2-66CB7FE6BF77}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25799361961619, 49.27158948785971 ],
+					[ -123.25801982751717, 49.27157331712806 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{30508156-2631-4A57-A6DD-70DCE81C1376}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25799667575816, 49.271591638085845 ],
+					[ -123.25802286035079, 49.27157574265884 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{5DFC57AA-8B43-4AFA-9B5D-41DEECF0961B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25799971810677, 49.27159377934751 ],
+					[ -123.25802576618496, 49.27157806682733 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7CAE148C-1A2F-4F0B-BA27-E2785E038C1A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25800280874732, 49.27159595468305 ],
+					[ -123.25802854915781, 49.27158029232286 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7BB72D93-7A79-4AB5-BD32-9ADBAC58D299}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.2494823087779, 49.26145113835679 ],
 					[ -123.24951548983535, 49.261439455674854 ]
 				]
@@ -10015,6 +11197,71 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.25647570253916, 49.265330619172026 ],
+					[ -123.25645802797479, 49.26530919132541 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{01D89F5B-A248-43A6-B09F-7A256C4C2311}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25648343481488, 49.26532782698424 ],
+					[ -123.25646601945982, 49.26530655418061 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{294B2037-7A76-46BD-A43F-5F7313DEC7CD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25649030414044, 49.26532534704648 ],
+					[ -123.25647323566892, 49.26530417242124 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{EA3A29D2-4FB8-49B9-9442-49725D4EA7D7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25644675448669, 49.265370241680294 ],
+					[ -123.2564275884457, 49.265347993177905 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{8B6E53B1-B572-472F-ABD9-3E0ECA142EEA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25643523978542, 49.26534523085718 ],
+					[ -123.25645379943415, 49.26536610803456 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{E391C836-1752-4604-A2F8-CB64942B2122}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.25686068283096, 49.26942932242711 ],
 					[ -123.25689041154351, 49.269418671673385 ]
 				]
@@ -10314,6 +11561,20 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.24935989946819, 49.269305721670406 ],
+					[ -123.2492879027791, 49.269217701506754 ],
+					[ -123.2494564083573, 49.269158653994914 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{5F7C2AF2-D6AA-43E4-A065-36CE47D15B30}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.25858719957381, 49.270995419221684 ],
 					[ -123.25858719392954, 49.27098855319385 ]
 				]
@@ -10398,6 +11659,128 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{BB220725-3E4D-426F-B9F7-A8B25A8D29B2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2493619843107, 49.26929690276732 ],
+					[ -123.24930021292327, 49.26922024127937 ],
+					[ -123.24931993682868, 49.26921359264045 ],
+					[ -123.24945517932329, 49.26916599044111 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{48239E39-B0B9-42CC-AE68-441B121E2273}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24946086251228, 49.26917290897855 ],
+					[ -123.24933310114021, 49.269217873837654 ],
+					[ -123.24932237201257, 49.269221648890735 ],
+					[ -123.24931631377521, 49.26922377403787 ],
+					[ -123.24936521747358, 49.269283276146126 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{72DA58CC-42E8-49D1-9F7D-1A672BF4E1E6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25643523978542, 49.26534523085718 ],
+					[ -123.2564170976742, 49.26532269853019 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{62CE26C2-AF91-444F-AB4E-B71237AE4A0D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2564275884457, 49.265347993177905 ],
+					[ -123.25640910069531, 49.26532533748283 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{4FB8AE01-FDEF-42D1-B2CD-6B7837A7495B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25644236292214, 49.26534265860777 ],
+					[ -123.25642411355659, 49.26532038378307 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C5D1246D-4DD8-4B08-8202-B8C836CD3E97}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2564509265986, 49.26533956593576 ],
+					[ -123.25643268272431, 49.26531755555951 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AE157261-6238-41C9-A37C-A2BC92CF09CA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25645931192517, 49.265336538424535 ],
+					[ -123.25644125189105, 49.2653147273353 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{74506BD3-3C37-4733-9241-DE5DE50D3ED9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25646787011085, 49.26533344756247 ],
+					[ -123.25645002688611, 49.26531183208904 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{EA25C251-06E6-4499-A18F-52C345FE7258}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25644236292214, 49.26534265860777 ],
+					[ -123.25646026981983, 49.26536276724258 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A255E7B1-B328-48C2-BE9C-0F3AD0F6A401}"
 			}
 		},
 		{
@@ -11980,6 +13363,110 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.2564509265986, 49.26533956593576 ],
+					[ -123.25646774723981, 49.26535933336324 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{41C960F1-03B5-45CF-A31C-B5BFA0474B9A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25645931192517, 49.265336538424535 ],
+					[ -123.25647582289582, 49.2653559620215 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{FCD7E9C0-6D4D-4CE4-880C-621F57927114}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25646787011085, 49.26533344756247 ],
+					[ -123.25648407815466, 49.26535303284503 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F85D5C88-BD21-4972-A4FF-876E784D9590}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25647570253916, 49.265330619172026 ],
+					[ -123.25649220644783, 49.265350535720096 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{D7144126-5CCE-41C6-9D1D-F0FEEF58F360}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25648343481488, 49.26532782698424 ],
+					[ -123.25650035245579, 49.26534827422989 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7F0F3B18-516F-4544-B6BB-96AE4298FB2B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25649030414044, 49.26532534704648 ],
+					[ -123.2565079777547, 49.265346587789786 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{5C8114F0-7D41-46EF-B467-2179C830B4D1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25675773855211, 49.26657749842793 ],
+					[ -123.25672700759382, 49.266539570037715 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{4FC393AD-6B6C-42CC-B69A-8147721884D8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25675337379245, 49.26657897704542 ],
+					[ -123.25672293400815, 49.26654100393056 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7F291E84-19A8-4280-9D45-6C73474DD735}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.25646909213131, 49.271399935589386 ],
 					[ -123.25650743395562, 49.271390774316004 ]
 				]
@@ -12188,6 +13675,58 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.25674917918025, 49.26658039861481 ],
+					[ -123.2567188590524, 49.26654243872581 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{DD927802-997F-45BD-81C0-AD6C0882957E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25674480756143, 49.266581879945775 ],
+					[ -123.2567143326975, 49.266544032839576 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1190B287-A270-4DCA-9BE7-01A382771CB8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25511115437921, 49.26472055236717 ],
+					[ -123.25509384584176, 49.2646995804588 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F1657D5A-65C8-42B3-9B1D-475B505EB946}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.255106821509, 49.264722062335835 ],
+					[ -123.25508965327167, 49.26470110990655 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A2E1FC93-EAA9-447B-94CB-12B538AC2A51}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.2577459120364, 49.271286793440005 ],
 					[ -123.25780089410196, 49.271287148423795 ]
 				]
@@ -12233,6 +13772,19 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{AD8B35E0-7EF9-4AB6-A947-6A929DCD0A16}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25510312937496, 49.264723348707854 ],
+					[ -123.25508614940058, 49.264702387766675 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{604A3327-4D53-44E7-80EC-038B0FB35C82}"
 			}
 		},
 		{
@@ -13429,6 +14981,214 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{3B46E63F-90A9-4974-8060-DC35C8E2E97E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25509921634367, 49.264724712026776 ],
+					[ -123.2550824123084, 49.26470375159613 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{488C1741-435F-4064-91C2-5B4928824E84}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25363835099775, 49.262960980766145 ],
+					[ -123.25358423483247, 49.26298000390135 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{06DB0054-68B2-43CF-AAA6-79015E85399C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25364017666148, 49.26296293591677 ],
+					[ -123.25358504321302, 49.26298192170656 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{8760A882-5B9F-460D-BFBB-94A69BE53C34}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25364168307998, 49.262964549949906 ],
+					[ -123.25358599104722, 49.26298396333973 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7B4C4D89-B7FF-4016-AB4A-41F7B577A7C5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2536571867508, 49.26298115976524 ],
+					[ -123.25359440781118, 49.26300293916786 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3669218D-3DFF-4F1B-8B00-2A801A111E5C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25365915614985, 49.262983269317736 ],
+					[ -123.25359578162919, 49.263006035004985 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{368C2189-4792-44DC-AD41-D889EC8D0821}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25366127619198, 49.262985540453364 ],
+					[ -123.25359690960084, 49.263008629448535 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{0B47FC76-E841-48F2-9479-FFF4EB62E2E8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25366355654897, 49.26298798304566 ],
+					[ -123.25359811212842, 49.26301128939352 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{B3CD2212-84A7-432C-B431-9FCA63FF1118}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25366584106176, 49.262990431925445 ],
+					[ -123.25359947228092, 49.26301440055245 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{667CE64D-67BE-4212-B512-AE5A49CAC89C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25613157726546, 49.26829866188018 ],
+					[ -123.25611300954564, 49.26827561593395 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{3015EDA4-1D4C-4AD9-9728-A01DF5E901F4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25614621338279, 49.26829350846159 ],
+					[ -123.2561274398393, 49.26827053403611 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{82D9E2EB-5E93-4D68-A1C9-60EF8E789A2F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25142051447068, 49.26975047144068 ],
+					[ -123.2514842960543, 49.26972719786347 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1E52E1DE-DB22-48E3-BE58-ECC4D1A1D07D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25141890306537, 49.269748512192905 ],
+					[ -123.2514828990436, 49.269725499910464 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{7B2A0F09-11AB-4790-8A8D-9A43D706BBE2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25141579229867, 49.269744731080166 ],
+					[ -123.25147952270535, 49.26972139644951 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{2D2824E8-65A6-4F98-B723-200AF369AC01}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25141439113854, 49.269743027738244 ],
+					[ -123.25147801504428, 49.269719564708694 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{B64AB453-A6F3-435A-B466-2219EE7028BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25259323873917, 49.268609147342616 ],
+					[ -123.25257845641667, 49.268590867211856 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AA600BB8-E42F-4584-A820-CFA49C12D3CE}"
 			}
 		},
 		{
@@ -21584,6 +23344,333 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.2483548051411, 49.26831145396444 ],
+					[ -123.24830243704483, 49.268245954562815 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{E730F1E7-14D5-41BE-ACBF-D91596BE660E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2483468824297, 49.2683140085421 ],
+					[ -123.24829414373093, 49.26824888863161 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{FF21B2F6-CA73-4721-B9F8-AC946CD601D9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24942566283437, 49.268096415042535 ],
+					[ -123.24937549330636, 49.26803481709793 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AF627DD3-2EB4-4CA7-A092-74F6979E91F6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24938310307073, 49.268033736540296 ],
+					[ -123.24942328574943, 49.26808215197309 ],
+					[ -123.24943242319797, 49.26809317026892 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F9087FFA-767A-4334-BED0-2369B629D53C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24943879273688, 49.26809011074044 ],
+					[ -123.24939140512926, 49.26803255733964 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{AC9BD631-67DC-44DA-BD88-ABFC35613D08}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24939895994635, 49.26803148409574 ],
+					[ -123.24943937639662, 49.26808046031943 ],
+					[ -123.24944486196, 49.26808719398423 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{47F41566-2E63-440D-8C0A-66FAEDD11154}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.24945128638507, 49.26808411544662 ],
+					[ -123.24940692135064, 49.26803035330388 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{590D4A7D-219C-4FE1-AF4E-D0A05210025F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.256042514435, 49.26387599038342 ],
+					[ -123.25602297569633, 49.26385222424192 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{9BD3EB14-F308-4242-8E9E-A400DFBBED13}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25603652585465, 49.26387811393203 ],
+					[ -123.25601696916635, 49.26385433163791 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{9FF190F2-88D8-4EA1-9C6D-5B0D7849BED7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25603045769965, 49.26388026554182 ],
+					[ -123.2560108912945, 49.263856464378264 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{5956EB17-3B73-4F76-9E6F-05875FA5A519}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25602439229304, 49.263882417145204 ],
+					[ -123.25600481068251, 49.26385859892341 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{6135A720-99E6-4B88-9CB9-22E5494C14DA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25601832550677, 49.26388456785181 ],
+					[ -123.25599873007002, 49.263860733468235 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{4E245B06-3103-4F35-9488-3240C4430F6F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25599444663884, 49.26389303668555 ],
+					[ -123.255974791755, 49.26386913406603 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F28682B6-AD6D-4419-B00E-F3F305C98621}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25598845531012, 49.26389516113727 ],
+					[ -123.2559687879698, 49.263871241453415 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CA874040-2214-48FD-9090-27D32DB1F409}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.2559627073542, 49.26387337599635 ],
+					[ -123.25598238852537, 49.26389731274148 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{56657182-4B96-4A9C-861F-61B572F81889}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25597632310992, 49.263899463442826 ],
+					[ -123.25595662947765, 49.263875508733854 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{83B8A218-A752-462B-A380-E1209F1DE43B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25595041331759, 49.26387747986345 ],
+					[ -123.25597025769858, 49.26390161504338 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{A19A3A7F-18AF-4FF9-9518-B55223FB4E66}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25596426773758, 49.26390373859129 ],
+					[ -123.25594454507373, 49.26387975066227 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{1FEFDE27-9800-4786-914C-8442D82BB5EA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25593846445601, 49.26388188520392 ],
+					[ -123.25595820095539, 49.26390589109376 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{CBFFE4D7-14A5-4D05-BA0C-22C13524B947}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25595213416337, 49.26390804179687 ],
+					[ -123.25593238382847, 49.263884017946246 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{DC920A65-E201-4C8D-BD16-02CD1B0A9EA1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25638171079306, 49.2706866694039 ],
+					[ -123.25639806811127, 49.27068724478147 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{38275A14-931C-47AF-80C5-DA64B1302CA4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25638219945219, 49.2706804292448 ],
+					[ -123.25639843024564, 49.270681259467395 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{ABC8C2E5-98D3-4636-8702-5CE25E62E153}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25638277585348, 49.27067308248066 ],
+					[ -123.2563988910946, 49.27067363230918 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{F782271E-1FD5-4EB3-B0B5-AEBEDB6B670C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25638321883908, 49.27066545626166 ],
+					[ -123.2563993557224, 49.27066593857804 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{C07D3490-910F-4666-98B4-FDBE18D4C0BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -123.25638389372168, 49.27065881000552 ],
+					[ -123.2563997546071, 49.270659352302616 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{307E2A04-C8CA-497C-B2AE-D859BD730646}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.2496565221608, 49.258956659658004 ],
 					[ -123.249644551426, 49.25894216273572 ]
 				]
@@ -22305,2093 +24392,6 @@
 			},
 			"properties" : {
 				"GLOBALID" : "{648C6381-1E29-46E4-8D16-3D0777D9E192}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24935989946819, 49.269305721670406 ],
-					[ -123.2492879027791, 49.269217701506754 ],
-					[ -123.2494564083573, 49.269158653994914 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{5F7C2AF2-D6AA-43E4-A065-36CE47D15B30}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2493619843107, 49.26929690276732 ],
-					[ -123.24930021292327, 49.26922024127937 ],
-					[ -123.24931993682868, 49.26921359264045 ],
-					[ -123.24945517932329, 49.26916599044111 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{48239E39-B0B9-42CC-AE68-441B121E2273}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24946086251228, 49.26917290897855 ],
-					[ -123.24933310114021, 49.269217873837654 ],
-					[ -123.24932237201257, 49.269221648890735 ],
-					[ -123.24931631377521, 49.26922377403787 ],
-					[ -123.24936521747358, 49.269283276146126 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{72DA58CC-42E8-49D1-9F7D-1A672BF4E1E6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25643523978542, 49.26534523085718 ],
-					[ -123.2564170976742, 49.26532269853019 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{62CE26C2-AF91-444F-AB4E-B71237AE4A0D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2564275884457, 49.265347993177905 ],
-					[ -123.25640910069531, 49.26532533748283 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{4FB8AE01-FDEF-42D1-B2CD-6B7837A7495B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25644236292214, 49.26534265860777 ],
-					[ -123.25642411355659, 49.26532038378307 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C5D1246D-4DD8-4B08-8202-B8C836CD3E97}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2564509265986, 49.26533956593576 ],
-					[ -123.25643268272431, 49.26531755555951 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AE157261-6238-41C9-A37C-A2BC92CF09CA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25645931192517, 49.265336538424535 ],
-					[ -123.25644125189105, 49.2653147273353 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{74506BD3-3C37-4733-9241-DE5DE50D3ED9}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25646787011085, 49.26533344756247 ],
-					[ -123.25645002688611, 49.26531183208904 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{EA25C251-06E6-4499-A18F-52C345FE7258}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25647570253916, 49.265330619172026 ],
-					[ -123.25645802797479, 49.26530919132541 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{01D89F5B-A248-43A6-B09F-7A256C4C2311}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25648343481488, 49.26532782698424 ],
-					[ -123.25646601945982, 49.26530655418061 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{294B2037-7A76-46BD-A43F-5F7313DEC7CD}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25649030414044, 49.26532534704648 ],
-					[ -123.25647323566892, 49.26530417242124 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{EA3A29D2-4FB8-49B9-9442-49725D4EA7D7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25644675448669, 49.265370241680294 ],
-					[ -123.2564275884457, 49.265347993177905 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{8B6E53B1-B572-472F-ABD9-3E0ECA142EEA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25643523978542, 49.26534523085718 ],
-					[ -123.25645379943415, 49.26536610803456 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{E391C836-1752-4604-A2F8-CB64942B2122}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25644236292214, 49.26534265860777 ],
-					[ -123.25646026981983, 49.26536276724258 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A255E7B1-B328-48C2-BE9C-0F3AD0F6A401}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2564509265986, 49.26533956593576 ],
-					[ -123.25646774723981, 49.26535933336324 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{41C960F1-03B5-45CF-A31C-B5BFA0474B9A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25645931192517, 49.265336538424535 ],
-					[ -123.25647582289582, 49.2653559620215 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{FCD7E9C0-6D4D-4CE4-880C-621F57927114}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25646787011085, 49.26533344756247 ],
-					[ -123.25648407815466, 49.26535303284503 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F85D5C88-BD21-4972-A4FF-876E784D9590}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25647570253916, 49.265330619172026 ],
-					[ -123.25649220644783, 49.265350535720096 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{D7144126-5CCE-41C6-9D1D-F0FEEF58F360}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25648343481488, 49.26532782698424 ],
-					[ -123.25650035245579, 49.26534827422989 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7F0F3B18-516F-4544-B6BB-96AE4298FB2B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25649030414044, 49.26532534704648 ],
-					[ -123.2565079777547, 49.265346587789786 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{5C8114F0-7D41-46EF-B467-2179C830B4D1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25675773855211, 49.26657749842793 ],
-					[ -123.25672700759382, 49.266539570037715 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{4FC393AD-6B6C-42CC-B69A-8147721884D8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25675337379245, 49.26657897704542 ],
-					[ -123.25672293400815, 49.26654100393056 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7F291E84-19A8-4280-9D45-6C73474DD735}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25674917918025, 49.26658039861481 ],
-					[ -123.2567188590524, 49.26654243872581 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{DD927802-997F-45BD-81C0-AD6C0882957E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25674480756143, 49.266581879945775 ],
-					[ -123.2567143326975, 49.266544032839576 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1190B287-A270-4DCA-9BE7-01A382771CB8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25511115437921, 49.26472055236717 ],
-					[ -123.25509384584176, 49.2646995804588 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F1657D5A-65C8-42B3-9B1D-475B505EB946}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.255106821509, 49.264722062335835 ],
-					[ -123.25508965327167, 49.26470110990655 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A2E1FC93-EAA9-447B-94CB-12B538AC2A51}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25510312937496, 49.264723348707854 ],
-					[ -123.25508614940058, 49.264702387766675 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{604A3327-4D53-44E7-80EC-038B0FB35C82}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25509921634367, 49.264724712026776 ],
-					[ -123.2550824123084, 49.26470375159613 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{488C1741-435F-4064-91C2-5B4928824E84}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25363835099775, 49.262960980766145 ],
-					[ -123.25358423483247, 49.26298000390135 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{06DB0054-68B2-43CF-AAA6-79015E85399C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25364017666148, 49.26296293591677 ],
-					[ -123.25358504321302, 49.26298192170656 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{8760A882-5B9F-460D-BFBB-94A69BE53C34}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25364168307998, 49.262964549949906 ],
-					[ -123.25358599104722, 49.26298396333973 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7B4C4D89-B7FF-4016-AB4A-41F7B577A7C5}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2536571867508, 49.26298115976524 ],
-					[ -123.25359440781118, 49.26300293916786 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3669218D-3DFF-4F1B-8B00-2A801A111E5C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25365915614985, 49.262983269317736 ],
-					[ -123.25359578162919, 49.263006035004985 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{368C2189-4792-44DC-AD41-D889EC8D0821}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25366127619198, 49.262985540453364 ],
-					[ -123.25359690960084, 49.263008629448535 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{0B47FC76-E841-48F2-9479-FFF4EB62E2E8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25366355654897, 49.26298798304566 ],
-					[ -123.25359811212842, 49.26301128939352 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{B3CD2212-84A7-432C-B431-9FCA63FF1118}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25366584106176, 49.262990431925445 ],
-					[ -123.25359947228092, 49.26301440055245 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{667CE64D-67BE-4212-B512-AE5A49CAC89C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25613157726546, 49.26829866188018 ],
-					[ -123.25611300954564, 49.26827561593395 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3015EDA4-1D4C-4AD9-9728-A01DF5E901F4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25614621338279, 49.26829350846159 ],
-					[ -123.2561274398393, 49.26827053403611 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{82D9E2EB-5E93-4D68-A1C9-60EF8E789A2F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25142051447068, 49.26975047144068 ],
-					[ -123.2514842960543, 49.26972719786347 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1E52E1DE-DB22-48E3-BE58-ECC4D1A1D07D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25141890306537, 49.269748512192905 ],
-					[ -123.2514828990436, 49.269725499910464 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7B2A0F09-11AB-4790-8A8D-9A43D706BBE2}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25141579229867, 49.269744731080166 ],
-					[ -123.25147952270535, 49.26972139644951 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{2D2824E8-65A6-4F98-B723-200AF369AC01}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25141439113854, 49.269743027738244 ],
-					[ -123.25147801504428, 49.269719564708694 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{B64AB453-A6F3-435A-B466-2219EE7028BE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25259323873917, 49.268609147342616 ],
-					[ -123.25257845641667, 49.268590867211856 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AA600BB8-E42F-4584-A820-CFA49C12D3CE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25259894280526, 49.26860715772573 ],
-					[ -123.25258399582015, 49.268588934625456 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{2998D9FA-1AA1-429D-986C-300F32FF1296}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2526043148086, 49.26860528397318 ],
-					[ -123.25258936919205, 49.268587059971104 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{D84CD9EA-5C24-4B6B-BBDC-EC72298FE0E1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25259595005996, 49.26858476349999 ],
-					[ -123.25261082021369, 49.26860301465184 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C34B6FD7-A78B-4FB9-A031-8C888CF03BEE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25604209512761, 49.271442040142894 ],
-					[ -123.2560090129452, 49.271449918585816 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{500C238E-B7F7-4CAB-BE1E-525307031C68}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2559941671181, 49.27142429085786 ],
-					[ -123.2560277791989, 49.271416274517904 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{86BBA3BA-EFA1-46CC-B65F-AE5F96F39320}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25603498501795, 49.27142924043024 ],
-					[ -123.25600157082245, 49.27143697928154 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{83883901-E198-4362-B003-7717D4E77017}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25599806685953, 49.27143088829611 ],
-					[ -123.25603151741332, 49.271423003642916 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1D314DF9-B7E1-4DAC-AEF7-16C6B6DC6364}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25600563243353, 49.271444041412956 ],
-					[ -123.25603885114012, 49.271435715606806 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{559A61F2-E72F-4FD2-BDA2-66CB7FE6BF77}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25799361961619, 49.27158948785971 ],
-					[ -123.25801982751717, 49.27157331712806 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{30508156-2631-4A57-A6DD-70DCE81C1376}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25799667575816, 49.271591638085845 ],
-					[ -123.25802286035079, 49.27157574265884 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{5DFC57AA-8B43-4AFA-9B5D-41DEECF0961B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25799971810677, 49.27159377934751 ],
-					[ -123.25802576618496, 49.27157806682733 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7CAE148C-1A2F-4F0B-BA27-E2785E038C1A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25800280874732, 49.27159595468305 ],
-					[ -123.25802854915781, 49.27158029232286 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{7BB72D93-7A79-4AB5-BD32-9ADBAC58D299}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25800638505459, 49.27159847075181 ],
-					[ -123.25803216474876, 49.27158322388156 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C53BAE5F-0508-4177-8423-4EC8A8FB44FE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25770254623868, 49.27163009321287 ],
-					[ -123.25772848708489, 49.271628343355545 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BA290B8B-C67B-48EB-ABD8-E217E7DA333B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25770412615171, 49.271634392095464 ],
-					[ -123.25772965285536, 49.27163310011798 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C3C9C2DE-D318-4FD7-A953-647F8CC96E16}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25770543413388, 49.27163794858067 ],
-					[ -123.25773064445549, 49.27163714484868 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{66D86DED-A9ED-447A-B152-0B8DA55C20D6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2577069666339, 49.271642118038045 ],
-					[ -123.25773152091007, 49.271640724784135 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{95CCC68F-30C3-441F-B53F-95E1B670B5D1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25770825091908, 49.27164561160961 ],
-					[ -123.25773248863972, 49.27164467331937 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AF4BE18B-26A3-424E-8784-ADEF192BB31F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25803108247689, 49.27161899393066 ],
-					[ -123.25805013138753, 49.2716123821918 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{DF1F86AE-636A-4FDB-87CC-2EB208D5890D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25803272332156, 49.27162126425408 ],
-					[ -123.25805174845995, 49.27161457520929 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{6B1089EF-38AE-4889-8F6A-D46B07598F2D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25803446801267, 49.271623677369334 ],
-					[ -123.25805352612976, 49.27161698555205 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{6BAF7BD3-0A35-46F2-B9D8-D1A4A97B5390}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25803601192696, 49.27162581298112 ],
-					[ -123.25805513766157, 49.27161917048619 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CB8F9733-5711-4179-8EFB-266B34121356}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25803750460327, 49.27162787674568 ],
-					[ -123.2580567741159, 49.27162138954642 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CD0B42B1-582C-4823-A536-AE958BC57C22}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2580392700697, 49.27163031949864 ],
-					[ -123.2580584853375, 49.271623710984976 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{B6FBAB2A-F655-4B81-83DA-889591953CA4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25766638278341, 49.27155178425319 ],
-					[ -123.25777724681461, 49.27155228177515 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CA631D46-F1C7-4A85-9B92-1FF0EE060C3E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25020510493061, 49.26498380779157 ],
-					[ -123.25017817249811, 49.26495055233511 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{58F614A1-0B83-4E25-A108-685815418BE1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25766622623387, 49.27155815050864 ],
-					[ -123.25777728543217, 49.27155837414112 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A5E9032C-2852-46B1-88DB-124C5CBA4550}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25021144797233, 49.26498157673518 ],
-					[ -123.25018441411586, 49.264948379069175 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F8E4D1AD-7D35-4DEB-BF9D-04CFDE0CD5B8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2502170226608, 49.26497961629932 ],
-					[ -123.25019000399834, 49.26494643389356 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AFDA336D-2842-4E3E-A17E-9D2BB1262B71}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25022382534034, 49.26497722323252 ],
-					[ -123.25019670252298, 49.264944102221335 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{50A011D1-7E62-408A-9A49-44CFC4E3A664}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25766653189204, 49.271546628768874 ],
-					[ -123.25777725659263, 49.27154518813491 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F90E5162-5F27-4687-B404-6CD7D158EF96}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25859280651669, 49.270957746445724 ],
-					[ -123.25861915365148, 49.2709435928891 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{10CEB06C-6162-4C46-8B83-339E25C6865A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25859086206425, 49.270956039909315 ],
-					[ -123.25861751168621, 49.270942160929394 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BA077C53-4BFB-4004-925D-15708FB820B4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25766712543943, 49.27153917761673 ],
-					[ -123.25777737752239, 49.27153884804485 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AA59C248-D3BE-48EA-B656-8158DAF1099E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2576660683893, 49.27156453205882 ],
-					[ -123.25777732955824, 49.27156525987184 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{9C3DE18C-16AC-4F74-BD40-1E13932B15B1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25858831687859, 49.27095380669876 ],
-					[ -123.25861518752106, 49.270940133214935 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{B7CE3F08-B280-4BE0-8391-9E282A4977BC}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2585860658433, 49.27095183099227 ],
-					[ -123.25861271007388, 49.27093797271447 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3162DD1E-95D5-4AA3-8556-3A370B4499AF}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25858407306224, 49.27095008318596 ],
-					[ -123.25861037071743, 49.270935931541096 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3A92807D-ADF9-40E0-B4DE-7F9E1058F577}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25858166735641, 49.2709479719979 ],
-					[ -123.25860803827203, 49.27093389754838 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{58D2D32A-7F2D-4C3C-A76D-E730A4563E0B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25857951990479, 49.270946088710076 ],
-					[ -123.25860551386637, 49.27093169487537 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BB8BB6A4-2FC2-4587-9AD1-24DE3852922B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25857716115374, 49.270944018794786 ],
-					[ -123.25860311236909, 49.27092959986972 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{FF83BAC1-D019-4755-80E8-B3E77BADCAAE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25857441987083, 49.27094161421432 ],
-					[ -123.25860013086672, 49.2709269988325 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BEF5751F-581B-45FA-BDBE-5E3B6311BC48}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25857210669527, 49.270939584675375 ],
-					[ -123.25859753603953, 49.270924736049054 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F4631EC7-D67F-477F-A536-277B469D85DA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2585697093982, 49.27093750405193 ],
-					[ -123.25859540935853, 49.27092288149969 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{79D65FE3-2CC4-4EAA-8AEB-B75A8EC3339A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25856728724007, 49.270935400996095 ],
-					[ -123.25859298714832, 49.27092076854976 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{59E39211-646A-46B3-9DE6-166888C52E9D}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25856470903199, 49.27093316156225 ],
-					[ -123.2585902887387, 49.27091841334733 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A429F5C1-E506-406E-AE6B-FBA48D7F5A42}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25856266110654, 49.270931383295284 ],
-					[ -123.25858826839061, 49.270916651210484 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{339050F7-CFC6-4093-B3C2-AAF886C77D26}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25856049718875, 49.27092950544106 ],
-					[ -123.25858639304391, 49.270915015581465 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{4D0FE185-8F3E-4DEC-B6A1-93FCD356B157}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25855746188923, 49.27092686854231 ],
-					[ -123.25858362145404, 49.27091259847576 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{093BB7AA-35F6-4C50-A83A-B94E8BABF624}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25855474559638, 49.27092451068055 ],
-					[ -123.25858086090868, 49.27091019034049 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{E45D0C4D-F16A-405E-A5B4-975509855907}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25855245324435, 49.27092251977396 ],
-					[ -123.25857862927121, 49.270908243375054 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1D491E59-C718-4F7D-85CC-362A8F711E94}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2590497338951, 49.268728256516404 ],
-					[ -123.25908193439389, 49.2687081097094 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{69F1D9B5-3BCB-4A8A-A8F2-C2EC59A035E6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25904438780513, 49.26872453369142 ],
-					[ -123.25907504588474, 49.26870515313813 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{051EF675-C756-4C36-BB03-2B6E20AAD88F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2590388803003, 49.26872069878796 ],
-					[ -123.2590692600297, 49.2687011884297 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{723930E8-EC7B-4CD0-9183-B48F1FEB1F86}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25903201799039, 49.268715919725985 ],
-					[ -123.25906282577324, 49.26869677721334 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{5B3C51F3-AF0A-4BB0-95F6-CF5ABB5BF39F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25518208570256, 49.26823064691856 ],
-					[ -123.25511677038044, 49.26815143001535 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{51A8C35A-4372-4C29-AC6A-6A41B2BE07CB}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25900194608793, 49.268694978827924 ],
-					[ -123.25903222311342, 49.26867580602988 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{906DC9A3-2540-4AA1-B745-D22BCAAF035B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25900767984841, 49.268698971541646 ],
-					[ -123.2590380103371, 49.26867977073711 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{483E231E-7081-49C9-A676-6603AD01C482}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2590134301661, 49.26870297591175 ],
-					[ -123.25904380032969, 49.26868373903595 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{706DC2E4-C5B2-4A3C-B1CF-2BACD1771D74}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25901905631493, 49.26870689330641 ],
-					[ -123.25904946478825, 49.26868762216143 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{12646814-056F-4122-AB08-A33E438E1654}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25902497770991, 49.2687110169287 ],
-					[ -123.25905550999535, 49.268691764394525 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C17D8488-4B53-40BE-B1B4-DC1AB407EFA8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2551799095673, 49.26823141631744 ],
-					[ -123.25511412771783, 49.26815236055782 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3BE94062-5501-4522-B2A6-AB48E32049C8}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25517703092906, 49.26823243553557 ],
-					[ -123.25511144526209, 49.268153304680915 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{0F298830-61F7-4B08-ADE4-B00922662429}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25510269383936, 49.268258730769205 ],
-					[ -123.25503771823116, 49.26817926660296 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{0707CE03-3A13-437B-B795-2B2D4D19D74B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25510016644515, 49.26825962417649 ],
-					[ -123.2550354597512, 49.26818006136748 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{6C065522-6DF3-40E3-8D1D-384BE250ABDE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25509744696248, 49.268260586371426 ],
-					[ -123.25503291450885, 49.268180958410795 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{59AD313F-8EC7-4863-AB7B-519B416291DB}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2540595646509, 49.26571976587723 ],
-					[ -123.25404400105897, 49.26572594832673 ],
-					[ -123.25398607920528, 49.26571025218666 ],
-					[ -123.25395653896763, 49.26567348621754 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A2A9C290-D921-43C3-B38D-40A89C35420A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25406345537182, 49.26572447711049 ],
-					[ -123.25404229251426, 49.265732639124984 ],
-					[ -123.2539783942385, 49.265715337882455 ],
-					[ -123.25394735326589, 49.26567674378441 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{54200AF8-2498-448C-8F90-1B5576D6DDFB}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25393956702467, 49.26567950443756 ],
-					[ -123.25397086048389, 49.26571935551352 ],
-					[ -123.25403888872205, 49.26573790161255 ],
-					[ -123.25406669878294, 49.26572840268582 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{066B1308-A923-428D-B695-8A6B203E232A}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25407058950523, 49.26573311391882 ],
-					[ -123.25403619679395, 49.26574527910857 ],
-					[ -123.2539655751967, 49.26572359218269 ],
-					[ -123.25393183567053, 49.26568224697913 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BEE1DA42-15B1-482F-929F-0DF6953CED3F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25454440292607, 49.266201040083764 ],
-					[ -123.25457204870695, 49.266234920811385 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CA67947B-93AD-4885-9657-CDF130CB87EA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25453536397073, 49.266204245201536 ],
-					[ -123.2545630856977, 49.266237926969765 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AEB23A53-622D-49F6-8C35-0EC8CF2625ED}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25524072344103, 49.26694660760093 ],
-					[ -123.25524850529743, 49.26695602908554 ],
-					[ -123.25526521998566, 49.266950182152115 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C5A942D0-551A-45BD-9E2F-6C9FCC4B7D49}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2552374606986, 49.26694776169799 ],
-					[ -123.25524667618895, 49.26695904292407 ],
-					[ -123.25526676921199, 49.26695206682434 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A3E848C6-BA28-4EC1-BDE0-492A72844655}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25523346116378, 49.26694917648462 ],
-					[ -123.25524402315351, 49.266962213300374 ],
-					[ -123.2552682755585, 49.26695389941905 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{3754BDAE-E464-42F9-87F2-1470AD7CCD12}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2552298622709, 49.26695045006084 ],
-					[ -123.25524207367773, 49.26696560880169 ],
-					[ -123.25527004194771, 49.26695604717115 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F62ABECF-7341-460A-9D16-EE4D956A0A08}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25259234759609, 49.265558568258456 ],
-					[ -123.25255768325711, 49.265516214512445 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C73421F7-EDDA-4635-AD12-83FA42E0EB0B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25260246768445, 49.2655549723355 ],
-					[ -123.2525675397335, 49.26551267763764 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1A70FD1F-53EB-4F0D-A102-329184F0155C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25261382671533, 49.26555093653552 ],
-					[ -123.25257861592252, 49.26550870362681 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{2E0D4D9B-1399-4F03-86EC-3979CA41B4D5}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25262444073512, 49.2655471659231 ],
-					[ -123.25258920779241, 49.26550490338181 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{23A8A0A8-CC8E-47A3-A23A-4C4B69F07DC7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25251788265524, 49.265466905188326 ],
-					[ -123.2524973736473, 49.265442419162206 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{6C49DCBE-6AAD-46EA-98CD-1E77DED099B5}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25252772181427, 49.26546374705321 ],
-					[ -123.25250801115239, 49.2654386745952 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{EF8E0053-B2F0-412E-837E-6F28C8D8E134}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25253985814356, 49.26545985078642 ],
-					[ -123.25251939092873, 49.26543466754375 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{38F8E280-9329-4D69-B057-473459374881}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25254867907819, 49.26545701960228 ],
-					[ -123.25252805130266, 49.265431618128396 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{61C115D9-0BE3-4424-A118-ECCDE576397F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24956223948938, 49.26829869043956 ],
-					[ -123.2495411456145, 49.26827238093576 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{FB0E7B03-E491-4D5C-B6A9-7D9170C50B96}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24956884195429, 49.26829629514686 ],
-					[ -123.24954731073878, 49.26827021506712 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{BBDE198F-A3FD-42B2-8446-411FFDDA8365}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24955308617187, 49.268268186766974 ],
-					[ -123.24957455119194, 49.268294223811644 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{833FAB06-532C-465A-8A5D-4DFF077973AE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24958026316924, 49.26829215067118 ],
-					[ -123.24955886022539, 49.268266157570025 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1453D066-9B7F-422F-864A-88709A396CAE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24837252520715, 49.26830573719925 ],
-					[ -123.24831902229954, 49.268240087325914 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{36EB8CD6-5765-4DED-9AEC-2487E9D33D87}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24836320817339, 49.268308742736664 ],
-					[ -123.24831047102298, 49.26824311280188 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{D17F3CAB-B966-47F1-B909-BEA4D0D2EF1C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2483548051411, 49.26831145396444 ],
-					[ -123.24830243704483, 49.268245954562815 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{E730F1E7-14D5-41BE-ACBF-D91596BE660E}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2483468824297, 49.2683140085421 ],
-					[ -123.24829414373093, 49.26824888863161 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{FF21B2F6-CA73-4721-B9F8-AC946CD601D9}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24942566283437, 49.268096415042535 ],
-					[ -123.24937549330636, 49.26803481709793 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AF627DD3-2EB4-4CA7-A092-74F6979E91F6}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24938310307073, 49.268033736540296 ],
-					[ -123.24942328574943, 49.26808215197309 ],
-					[ -123.24943242319797, 49.26809317026892 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F9087FFA-767A-4334-BED0-2369B629D53C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24943879273688, 49.26809011074044 ],
-					[ -123.24939140512926, 49.26803255733964 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{AC9BD631-67DC-44DA-BD88-ABFC35613D08}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24939895994635, 49.26803148409574 ],
-					[ -123.24943937639662, 49.26808046031943 ],
-					[ -123.24944486196, 49.26808719398423 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{47F41566-2E63-440D-8C0A-66FAEDD11154}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.24945128638507, 49.26808411544662 ],
-					[ -123.24940692135064, 49.26803035330388 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{590D4A7D-219C-4FE1-AF4E-D0A05210025F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.256042514435, 49.26387599038342 ],
-					[ -123.25602297569633, 49.26385222424192 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{9BD3EB14-F308-4242-8E9E-A400DFBBED13}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25603652585465, 49.26387811393203 ],
-					[ -123.25601696916635, 49.26385433163791 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{9FF190F2-88D8-4EA1-9C6D-5B0D7849BED7}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25603045769965, 49.26388026554182 ],
-					[ -123.2560108912945, 49.263856464378264 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{5956EB17-3B73-4F76-9E6F-05875FA5A519}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25602439229304, 49.263882417145204 ],
-					[ -123.25600481068251, 49.26385859892341 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{6135A720-99E6-4B88-9CB9-22E5494C14DA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25601832550677, 49.26388456785181 ],
-					[ -123.25599873007002, 49.263860733468235 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{4E245B06-3103-4F35-9488-3240C4430F6F}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25599444663884, 49.26389303668555 ],
-					[ -123.255974791755, 49.26386913406603 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F28682B6-AD6D-4419-B00E-F3F305C98621}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25598845531012, 49.26389516113727 ],
-					[ -123.2559687879698, 49.263871241453415 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CA874040-2214-48FD-9090-27D32DB1F409}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.2559627073542, 49.26387337599635 ],
-					[ -123.25598238852537, 49.26389731274148 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{56657182-4B96-4A9C-861F-61B572F81889}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25597632310992, 49.263899463442826 ],
-					[ -123.25595662947765, 49.263875508733854 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{83B8A218-A752-462B-A380-E1209F1DE43B}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25595041331759, 49.26387747986345 ],
-					[ -123.25597025769858, 49.26390161504338 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{A19A3A7F-18AF-4FF9-9518-B55223FB4E66}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25596426773758, 49.26390373859129 ],
-					[ -123.25594454507373, 49.26387975066227 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{1FEFDE27-9800-4786-914C-8442D82BB5EA}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25593846445601, 49.26388188520392 ],
-					[ -123.25595820095539, 49.26390589109376 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{CBFFE4D7-14A5-4D05-BA0C-22C13524B947}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25595213416337, 49.26390804179687 ],
-					[ -123.25593238382847, 49.263884017946246 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{DC920A65-E201-4C8D-BD16-02CD1B0A9EA1}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25638171079306, 49.2706866694039 ],
-					[ -123.25639806811127, 49.27068724478147 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{38275A14-931C-47AF-80C5-DA64B1302CA4}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25638219945219, 49.2706804292448 ],
-					[ -123.25639843024564, 49.270681259467395 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{ABC8C2E5-98D3-4636-8702-5CE25E62E153}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25638277585348, 49.27067308248066 ],
-					[ -123.2563988910946, 49.27067363230918 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{F782271E-1FD5-4EB3-B0B5-AEBEDB6B670C}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25638321883908, 49.27066545626166 ],
-					[ -123.2563993557224, 49.27066593857804 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{C07D3490-910F-4666-98B4-FDBE18D4C0BE}"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -123.25638389372168, 49.27065881000552 ],
-					[ -123.2563997546071, 49.270659352302616 ]
-				]
-			},
-			"properties" : {
-				"GLOBALID" : "{307E2A04-C8CA-497C-B2AE-D859BD730646}"
 			}
 		},
 		{
