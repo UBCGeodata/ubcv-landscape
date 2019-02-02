@@ -193,11 +193,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{8EF542E9-F889-4DFC-93D8-B0354515C209}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -460,11 +456,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{53BF6A5B-CEDD-4CDF-AC59-0A43371ED245}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -518,11 +510,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{D0952D21-F005-4869-9F16-D5F8A082F649}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -663,11 +651,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{38F95F5D-D26F-4FEC-8A9D-2FA51DA902F2}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1615,11 +1599,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{C9DD4EB8-91C6-4DD4-A8CD-2ECC9C21CFAB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1652,11 +1632,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "no",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{DE5909BA-C991-4241-B9E4-DE5C62ADDD81}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1686,11 +1662,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{75F873CF-7707-45F2-BD44-B9F2DB20B61F}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1757,11 +1729,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{0E8F1AE2-3B18-4552-8979-07E0828D946D}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1779,11 +1747,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{477CAC7B-8770-4836-9BF1-35485BF8E782}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1800,11 +1764,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{F4AC3BF8-82F9-4F7A-A2FB-757C397375E2}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1832,11 +1792,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{4D588205-D7FE-4955-9C69-BAC7FC434BE3}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1854,11 +1810,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{9042D1E2-35AF-41F4-B101-600D6AF71752}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1878,11 +1830,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{533238A4-52F3-4738-B7BB-D738B0873816}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1904,11 +1852,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "no",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{07F0D35B-6573-475B-B1A5-97A9DFFD857F}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -1937,11 +1881,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "no",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{1F3D9BAE-78CF-4450-99B7-AA24EC65BF96}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -2839,11 +2779,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{B70DA2F9-9590-4B7A-990A-91A3AE3023AB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -3100,11 +3036,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{18D525CB-3B59-4FDE-B3EF-4F99FB92178A}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -3152,11 +3084,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "no",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{B0553385-750B-4272-8A13-63119C100A6A}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16496,11 +16424,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{03C99EEE-65B4-4D85-A05F-0F5A8C3E99DB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16608,11 +16532,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{49417189-7103-4C85-A942-38EE11215114}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16628,11 +16548,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{6E3622B9-FE68-41A6-BD61-DCFBCB30DFAB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16652,11 +16568,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{04D34759-E048-4DC1-B0BE-B48D9CC934CE}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16713,11 +16625,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{4A4467A8-D294-4DBA-A550-1EA262F7F578}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16735,11 +16643,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{82F417AD-7C4E-4E00-86E1-C466F1539052}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16755,11 +16659,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{8263BD56-B5F8-45C7-B379-655038D5AC6E}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16775,11 +16675,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{39EBA605-04D2-482D-B53E-8E87FE0B0E41}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16797,11 +16693,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{B2FAB887-5EB3-468A-B71C-AC4813BFDB85}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16817,11 +16709,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{7C59C4C4-5C07-479D-AFFB-DA5BBA26EF5E}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16853,11 +16741,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{A7C023F1-1C25-4958-B882-4928D9B02297}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16890,11 +16774,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{C7C7FD4F-F902-422E-A7F9-347D1CC54BB1}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -16999,11 +16879,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{AB8B8816-6959-4CFB-A01E-FB10C057A9C7}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17143,11 +17019,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{1D9B1B01-FF05-4144-AB93-6CB63754CF71}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17163,11 +17035,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{98EA8F4C-9240-4F2E-8B41-78A2977DB132}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17189,11 +17057,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{7E4DB38D-FF22-4279-9010-611767AF21F0}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17209,11 +17073,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes ",
-				"GLOBALID" : "{5611A15E-2270-4BE2-97F9-197B2CF764A8}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17256,11 +17116,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{D8C43B6D-72F3-4CBB-B4D5-6B213EEF9E0D}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17357,11 +17213,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{53D60642-4506-442B-B841-30145A43BFA3}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17381,11 +17233,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{C349B692-80AC-4F3C-BB47-E2B5E57E6640}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17401,11 +17249,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{705C1067-81E2-40D6-8B29-2F88187C46B9}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17421,11 +17265,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : null,
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{8B386B58-A0DC-4C19-96B1-1F4C08A6B82C}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17441,11 +17281,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : null,
-				"GLOBALID" : "{12F23383-251F-46E9-9022-BF10F0935D69}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17535,11 +17371,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{E33A8589-D549-45C8-B0E1-8B256F6C8ED0}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17559,11 +17391,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{A5B041D4-77FC-4288-924E-6D9C2C1B2AF1}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17708,11 +17536,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{65B96312-2042-45A7-BDA2-855D970D3E61}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17746,11 +17570,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{12043248-7B76-4542-8074-B2D1F0C2AA76}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17799,11 +17619,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{C4EC9834-DC56-4047-B71E-63588DEB9CF0}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17898,11 +17714,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{7EC90A21-8504-462D-BBD8-FCA7B68E3658}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -17961,11 +17773,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{84AA47AF-E039-45F3-9954-800340724A8A}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18018,11 +17826,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{2859259D-14E2-4F49-8A1B-7F4CB153000C}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18133,11 +17937,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{AB48FE50-DD21-4A6B-A8A1-A3E3B205B7A2}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18172,11 +17972,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{37F92D56-5726-4EC4-A3CF-67C02E2E2794}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18224,11 +18020,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{AFD785F5-DEBD-46C4-AEC5-90A9D808B6AB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18258,11 +18050,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{6BB67C27-94EB-475D-934F-74BC3AD818A2}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18289,11 +18077,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{FB402CAA-F71B-44BA-9108-CB59EF7C35FB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18320,11 +18104,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes ",
-				"GLOBALID" : "{4581C391-2770-40B7-B376-A4CD3ED035AB}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18343,11 +18123,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes ",
-				"GLOBALID" : "{F036E23A-A9A8-488C-8EA0-1078478A4D1E}"
-			}
+			"properties" : {}
 		},
 		{
 			"type" : "Feature",
@@ -18539,11 +18315,7 @@
 					]
 				]
 			},
-			"properties" : {
-				"ARRIVAL_DISPLAY" : "yes",
-				"FINDER_DISPLAY" : "yes",
-				"GLOBALID" : "{7B2F0D88-F95A-4538-BC7A-CAD04C091D1F}"
-			}
+			"properties" : {}
 		}
 	]
 }

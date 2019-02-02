@@ -26,7 +26,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{2B2E2A7D-BD43-4659-9C44-B4D8BFEBD2D1}",
 				"NAME" : "Fairview Grove"
 			}
 		},
@@ -76,7 +75,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{BC9A2066-1CD4-4142-A4EB-10B3C2C48446}",
 				"NAME" : "Scarfe Garden"
 			}
 		},
@@ -122,7 +120,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{2E84EF8B-BC0E-4487-9E70-18AA312840D4}",
 				"NAME" : "Iona Green"
 			}
 		},
@@ -142,7 +139,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{8F1C3E28-34DD-46DF-BC30-ED244FEE9CE5}",
 				"NAME" : "Patient Park"
 			}
 		},
@@ -170,7 +166,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{AD1F6984-A558-4EAA-9799-C821191A0187}",
 				"NAME" : "Pharmacy Knoll"
 			}
 		},
@@ -219,7 +214,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{7B037768-B7E4-466A-BD6F-E1AE5793D713}",
 				"NAME" : "The Knoll"
 			}
 		},
@@ -263,7 +257,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{5EA4C9BC-57BD-4F02-A4A9-9171A49F110A}",
 				"NAME" : "East Campus Park"
 			}
 		},
@@ -283,7 +276,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{7C3F48F0-6E00-4D77-811B-28411ED3537F}",
 				"NAME" : "UBC Farm"
 			}
 		},
@@ -308,7 +300,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{2BB2125C-1B96-4C10-9570-95E3FAAB6F8E}",
 				"NAME" : "St Andrew's Common"
 			}
 		},
@@ -344,7 +335,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{3C74A2EA-99AB-463A-9B21-F07383F54C05}",
 				"NAME" : "Totem Park"
 			}
 		},
@@ -386,7 +376,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "field",
-				"GLOBALID" : "{E6E9F2D0-5C79-4650-A8BC-6263ED4274D6}",
 				"NAME" : "Thunderbird Park"
 			}
 		},
@@ -573,7 +562,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "field",
-				"GLOBALID" : "{79B715EF-FB24-4ED2-B846-22DC592E1185}",
 				"NAME" : "Thunderbird Stadium"
 			}
 		},
@@ -664,7 +652,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{A5531C48-141C-4228-851A-75375AF347B4}",
 				"NAME" : "Botanical Gardens"
 			}
 		},
@@ -723,7 +710,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{D78BC709-E715-410B-8039-0F82E8C0E8AE}",
 				"NAME" : "First Nations Garden"
 			}
 		},
@@ -763,7 +749,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{65C6829B-5E10-467C-99F2-82B15DD9C7D6}",
 				"NAME" : "Asian Culture Garden"
 			}
 		},
@@ -783,7 +768,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{72C5B126-36B6-40A3-BBB4-818197158DEB}",
 				"NAME" : "Wyman Plaza"
 			}
 		},
@@ -803,7 +787,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{BFB4431D-5E80-49AB-B91C-E25D5C98C39F}",
 				"NAME" : "Norman MacKenzie Square"
 			}
 		},
@@ -823,7 +806,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{74165A29-9014-43A6-8EA6-387F7E16E699}",
 				"NAME" : "Martha Piper Plaza"
 			}
 		},
@@ -843,7 +825,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{6DAEDAE7-917E-4CB9-A8AC-86303AA89A11}",
 				"NAME" : "Flagpole Plaza"
 			}
 		},
@@ -902,7 +883,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{25B3CD94-C2FE-4095-B253-A57CE5279C4F}",
 				"NAME" : "Yosef Wosk Reflecting Pool"
 			}
 		},
@@ -1030,7 +1010,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{4E88404B-B31F-4202-AD79-A57363C0B874}",
 				"NAME" : "Botanical Gardens"
 			}
 		},
@@ -1062,7 +1041,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{A896D0A5-C782-4700-9259-047EA5A3476F}",
 				"NAME" : "Ropes Course"
 			}
 		},
@@ -1091,7 +1069,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{AD42BA6A-AAE3-45B6-949C-C3DCB4CE1F89}",
 				"NAME" : "Koerner Plaza"
 			}
 		},
@@ -1111,7 +1088,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "plaza",
-				"GLOBALID" : "{AC5FB380-EDA3-45AB-BA76-C36896BF3C82}",
 				"NAME" : "Student Union Green"
 			}
 		},
@@ -1131,7 +1107,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{A43E3D6D-F919-41FF-BC94-1F44D4A17C65}",
 				"NAME" : "Beaty Garden"
 			}
 		},
@@ -1160,7 +1135,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{E7762625-D57B-444F-A3DB-EEC4D83F2C6D}",
 				"NAME" : "Rhododendron Wood"
 			}
 		},
@@ -1191,7 +1165,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{E86465D0-30D4-4F87-B3BD-6D8F707DADC2}",
 				"NAME" : "Brockhouse Park"
 			}
 		},
@@ -1223,7 +1196,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{7AB5B138-5803-4E2E-AECE-11690FBDC61E}",
 				"NAME" : "Acadia Park "
 			}
 		},
@@ -1255,7 +1227,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{35C6E6E3-E782-4DB6-9ED6-E3AE1FE54355}",
 				"NAME" : "Library Garden"
 			}
 		},
@@ -1276,7 +1247,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{E255470C-82B8-4EB8-8886-D06880568428}",
 				"NAME" : "Fairview Grove"
 			}
 		},
@@ -1308,7 +1278,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{E3ACFB44-A3EF-452E-B7FC-6AD75BE422A9}",
 				"NAME" : null
 			}
 		},
@@ -1349,7 +1318,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{69A6DB93-AE04-409A-A5E0-3B574751ACBF}",
 				"NAME" : "Totem Field"
 			}
 		},
@@ -1375,7 +1343,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{C081CA9C-6C15-4EBD-873E-7CBC4A7310AE}",
 				"NAME" : "Epiphany Chapel"
 			}
 		},
@@ -1409,7 +1376,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{3B56FCF7-EC67-41B4-8123-FAAA1E2A9CBC}",
 				"NAME" : null
 			}
 		},
@@ -1429,7 +1395,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{79D90C32-1DAD-45D1-BBE1-96C43BA48F2A}",
 				"NAME" : "Buchanan Courtyard 1"
 			}
 		},
@@ -1449,7 +1414,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{650CB0AD-5603-4819-BDEF-322BFE5F23A6}",
 				"NAME" : "Buchanan Courtyard 2"
 			}
 		},
@@ -1482,7 +1446,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{71EEACC4-1E80-4ABC-BEBF-81EA36F2BAAE}",
 				"NAME" : "Rose Garden"
 			}
 		},
@@ -1503,7 +1466,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{4D9C8EAD-2E42-47CB-BCF1-3695F8668BEA}",
 				"NAME" : "Khorana Park "
 			}
 		},
@@ -1523,7 +1485,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{4264F3B1-FF93-448D-9402-EBB734CA5363}",
 				"NAME" : "Engineering Courtyard"
 			}
 		},
@@ -1569,7 +1530,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{0076755C-EE4F-44A3-9AE2-8E4ED612A738}",
 				"NAME" : "Michael Smith Park"
 			}
 		},
@@ -1601,7 +1561,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{D6F17653-4B89-4AF2-A9BC-A2EAA878FE21}",
 				"NAME" : "Health Sciences Courtyard"
 			}
 		},
@@ -1623,7 +1582,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{7C290E40-96D0-4204-BD4E-3EB19221D437}",
 				"NAME" : "Jim Taylor Park"
 			}
 		},
@@ -1645,7 +1603,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{3F989A74-DA4C-40C8-AF5C-D980E32DFCD1}",
 				"NAME" : "Hawthorn Park"
 			}
 		},
@@ -1670,7 +1627,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{EEFAA212-B47D-4F10-8B1A-B518DC38CD03}",
 				"NAME" : "Eagles Park"
 			}
 		},
@@ -1704,7 +1660,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden - small",
-				"GLOBALID" : "{90F2CD2C-B564-4AA1-BD33-1834EED82634}",
 				"NAME" : "Dentristry Courtyard"
 			}
 		},
@@ -1733,7 +1688,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{1EBAA990-FB39-48C7-900D-E437DC77D594}",
 				"NAME" : "Sauder Family Garden"
 			}
 		},
@@ -1779,7 +1733,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{F6B5F200-7AE7-4A06-9FB4-972B78C7F976}",
 				"NAME" : "South Commons"
 			}
 		},
@@ -1831,7 +1784,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{EA11D377-7DAE-46F0-95E6-9AA84502DED7}",
 				"NAME" : "Mundell Park"
 			}
 		},
@@ -1856,7 +1808,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{6DA0DFEA-DAD9-44A8-972A-728E7004D5EB}",
 				"NAME" : "Nobel Park"
 			}
 		},
@@ -1881,7 +1832,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{E6B532DC-235C-4B69-94EC-37740F020BBD}",
 				"NAME" : "Research Ponds"
 			}
 		},
@@ -1909,7 +1859,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{341763C2-8502-4F13-9F6E-AEF98E76C03D}",
 				"NAME" : "Nitobe Memorial Garden"
 			}
 		},
@@ -1929,7 +1878,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{B681AA34-E162-47C2-A5E2-30EC7FE7AA00}",
 				"NAME" : "The Bosque"
 			}
 		},
@@ -1950,7 +1898,6 @@
 			},
 			"properties" : {
 				"SURFACE_TYPE" : "garden",
-				"GLOBALID" : "{497680C3-FB38-4646-B612-7419BEC2B3FF}",
 				"NAME" : "The Bosque"
 			}
 		}
