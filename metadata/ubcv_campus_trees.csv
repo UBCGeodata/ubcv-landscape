@@ -1,0 +1,22 @@
+Fieldname,Description
+TREEID,Tree UID
+FAMILY,Tree family
+TAXA,Scientific name
+COMMON_NAME,Common name (many have been assigned from GRIN database)
+TAG,Is the tree tagged (Y/N)
+TAGID,Tag ID number
+LIVE_TREE,Live/Dead
+DBH,Diameter at breast height (cm)
+THEIGHT,(m) Height from the ground to the top of the tree (alive or dead)
+HEIGHT_LIVETOP,(m) Height from the ground to the live top of the tree 
+HEIGHT_LIVEBASE,(m) Height from the ground to the base of the live crown
+CROWNWIDTH1,Tree condition at last update
+CROWNWIDTH2,"Class tree, monument or other significant trees"
+CANOPYMISSING,Nails etc in tree may be noted
+CROWN_LIGHTEXP,Diameter at breast height
+NUM_STEMS,Number of stems in multi-stemmed tree
+TEAM,Class team that collected the additional data
+TREE_TYPE,Deciduous/Evergreen
+DATE_MEASURE,Date measurements were taken
+TREE_ID_YR,Year tree identification was done
+NOTES,Notes/comments about this tree
