@@ -491,7 +491,6 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 2844,,Ilex,Holly,N,,Live,11,5.8100000000000005,5.8100000000000005,1.6500000000000001,2.6,3.29,7,3,,4,,,,,PLAN,20190614175929,PLAN,20190620220251
 3968,,Cornus kousa,Japanese Dogwood,N,,Live,5,4.8,4.8,0,1.4000000000000001,1.1,5,3,,8,,,,,PLAN,20190614175929,PLAN,20190620220251
 4896,,Quercus rubra,Northern Red Oak,Y,5618,Live,95,16.45,16.45,2.87,21.31,20.72,20,4,,10,,,,,PLAN,20190614175929,PLAN,20190620220251
-2695,,Laburnum x watereri,Golden-Chaintree,N,,Live,144,6.88,6.88,1.4000000000000001,7.8,7.8,25,5,,6,,,,,PLAN,20190614175929,PLAN,20190620220251
 5135,,,,,,,,,,,,,,,,,,,,,PLAN,20190614175832,PLAN,20190614175832
 5138,,Cupressus nootkatensis 'Aurea',,,,,,,,,,,,,,,,,,,PLAN,20190614175832,PLAN,20190614175832
 2001,,Quercus rubra,Northern Red Oak,Y,7750,Live,80,15.52,15.52,2.79,16.2,14.700000000000001,30,4,,10,,,,,PLAN,20190614175929,PLAN,20190620220251
@@ -1762,8 +1761,6 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 4232,,Chamaecyparis pisfora,,N,,Live,,,,,,,,0,,4,,,,,PLAN,20190614175916,PLAN,20190614175916
 4504,,Prunus yedonensis 'Akebono',,N,,Live,22,8.22,8.22,1.92,6.8,6.1000000000000005,5,5,,2,,,,,PLAN,20190614175916,PLAN,20190614175916
 2126,,N/A,,N,,Live,,22.69,15.56,7.140000000000001,12.9,8.6,45,3,,8,,,,,PLAN,20190614175916,PLAN,20190614175916
-2189,,Eriobotrya Japonica,,N,,Live,84,2.625,,0.1,3.8000000000000003,3.6,15,4,,7,,,,,PLAN,20190614175916,PLAN,20190614175916
-4047,,Tsonga heterophylla,,Y,5565,Live,44,17.09,14.120000000000001,2.98,11.700000000000001,11.3,10,2,,11,,,,,PLAN,20190614175916,PLAN,20190614175916
 4112,,Betula nigra heritage,,N,,Live,25,5.16,5.16,0.5,4.16,3.86,5,4,,6,,,,,PLAN,20190614175917,PLAN,20190614175917
 4519,,Prunus yedonensis 'Akebono',,N,,Live,13,7.08,7.08,2.22,5.6000000000000005,4.3,25,5,,2,,,,,PLAN,20190614175917,PLAN,20190614175917
 4033,,Zelkova Serrata,,N,,Live,129,5.44,,1.35,5.3,5.7,5,5,,7,,,,,PLAN,20190614175917,PLAN,20190614175917
@@ -1824,7 +1821,6 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 4237,,Amelanchier grandiflora,,N,,Live,,,,,,,50,5,,4,,,,,PLAN,20190614175918,PLAN,20190614175918
 4530,,Acer Palmatum,,N,,Live,6,6.390000000000001,6.390000000000001,0.9400000000000001,8.25,5,25,3,,3,,,,,PLAN,20190614175918,PLAN,20190614175918
 4506,,Prunus yedonensis 'Akebono',,N,,Live,21,8.52,8.52,1.98,6.3,5.8,10,5,,2,,,,,PLAN,20190614175918,PLAN,20190614175918
-2672,,Chamaecypairs pisifera 'squarrosa',,Y,,Live,155,15.1,15.1,1.7,12.5,10.700000000000001,40,4,,6,,,,,PLAN,20190614175918,PLAN,20190614175918
 2812,,"Acer x freemani ""armstrong""",,N,,Live,15,10.73,10.73,1.9000000000000001,3.6,3.5500000000000003,10,4,,4,,,,,PLAN,20190614175918,PLAN,20190614175918
 2704,,Betula nigra heritage,,N,,Live,28,7.44,7.44,0.4,5.2,4.5,0,5,,6,,,,,PLAN,20190614175918,PLAN,20190614175918
 2737,,Betula nigra heritage,,N,,Live,35,7.44,7.44,1.2,4.6000000000000005,3.8000000000000003,20,5,,6,,,,,PLAN,20190614175918,PLAN,20190614175918
@@ -1914,7 +1910,6 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 3295,,Cercidiphyllum japonicum,Katsura-Tree,,,,,,,,,,,,,,,,,,PLAN,20190614175811,PLAN,20190620215941
 3296,,Cercidiphyllum japonicum,Katsura-Tree,,,,,,,,,,,,,,,,,,PLAN,20190614175811,PLAN,20190620215941
 3297,,Pinus nigra,Black Pine,,,,,,,,,,,,,,,,,,PLAN,20190614175811,PLAN,20190620215941
-2188,,Pseudotsuga Menziesii,,N,,Live,67,5.8,,0,3.1,3,50,5,,7,,,,,PLAN,20190614175912,PLAN,20190614175912
 2908,,Corylus maxima purpurea,,N,,Live,11,8.36,8.36,2.2600000000000002,6.05,5.45,35,2,,3,,,,,PLAN,20190614175912,PLAN,20190614175912
 2839,,Cryptomerica japonica,,Y,7689,Live,7,4.94,4.94,1.48,4.7,5.1000000000000005,10,2,,4,,,,,PLAN,20190614175912,PLAN,20190614175912
 2714,,Fagus sylvatica 'Dawyck',,N,,Live,90,14.200000000000001,14.200000000000001,0.3,6.8,6.6000000000000005,0,5,,6,,,,,PLAN,20190614175912,PLAN,20190614175912
@@ -2710,6 +2705,73 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 5201,,Acer circinatum,Vine Maple,,,,,,,,,,,,,,,,,,PLAN,20190614175813,PLAN,20190620220341
 5198,,Acer circinatum,Vine Maple,,,,,,,,,,,,,,,,,,PLAN,20190614175813,PLAN,20190620220341
 4888,,Pseudotsuga menziesii,Douglas-Fir,,,,,,,,,,,,,,,,,,PLAN,20190614175838,PLAN,20190620220341
+2188,,Pseudotsuga menziesii,,N,,Live,67,5.8,,0,3.1,3,50,5,,7,,,,,PLAN,20190614175912,egan.davis@ubc.ca,20190824192135
+2695,,"Laburnum x watereri ""Vossii""",Golden-Chaintree,N,,Live,144,6.88,6.88,1.4000000000000001,7.8,7.8,25,5,,6,,,,,PLAN,20190614175929,egan.davis@ubc.ca,20190824192159
+2189,,Eriobotrya japonica,,N,,Live,84,2.625,,0.1,3.8000000000000003,3.6,15,4,,7,,,,,PLAN,20190614175916,egan.davis@ubc.ca,20190824192127
+4047,,Tsuga heterophylla,,Y,5565,Live,44,17.09,14.120000000000001,2.98,11.700000000000001,11.3,10,2,,11,,,,,PLAN,20190614175916,egan.davis@ubc.ca,20190824184610
+2672,,Chamaecypairs pisifera 'Squarrosa',,Y,,Live,155,15.1,15.1,1.7,12.5,10.700000000000001,40,4,,6,,,,,PLAN,20190614175918,egan.davis@ubc.ca,20190824185708
+,,Liquidambar styraciflua,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190828235935,egan.davis@ubc.ca,20190828235935
+,,Aesculus hippocastanum,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190828235736,egan.davis@ubc.ca,20190828235736
+,,Liquidambar styraciflua,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190828235834,egan.davis@ubc.ca,20190828235834
+,,Aesculus hippocastanum,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190828235725,egan.davis@ubc.ca,20190828235725
+99999,fake ,fake fakus,,,,,,,,,,,,,,,Deciduous,20190903185245,,,seeds.trees,20190903185246,seeds.trees,20190903185246
+99999,fake,fakus,,,,,,,,,,,,,,,Deciduous,20190903184727,,,jeff.burton@ubc.ca,20190903184734,jeff.burton@ubc.ca,20190903184734
+,Cornaceae ,Cornus kousa,,,,,,,,,,,,,,,,,,,seeds.trees,20190918235847,seeds.trees,20190918235847
+,,Cornus kousa,,9773,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000316,egan.davis@ubc.ca,20190919000316
+1955,Sapindaceae,Aesculus hippocastanum,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000624,egan.davis@ubc.ca,20190919000624
+,Pinaceae,Pinus,,,,,,,,,,,,,,,,,,,seeds.trees,20190919000706,seeds.trees,20190919000706
+0734,Sapindaceae,Aesculus hippocastanum,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000708,egan.davis@ubc.ca,20190919000708
+1953,Sapindaceae ,Aesculus hippocastanum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000739,egan.davis@ubc.ca,20190919000739
+,Sapindaceae,Acer circinatum ,,,,,,,,,,,,,,,,,,,seeds.trees,20190919000840,seeds.trees,20190919000840
+1946,Platanaceae,Platanus x hispanica,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000846,egan.davis@ubc.ca,20190919000846
+9774,Sapindaceae ,Acer griseum,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919000934,egan.davis@ubc.ca,20190919000934
+1924,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001047,egan.davis@ubc.ca,20190919001047
+9765,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001136,seeds.trees,20190919001136
+1923,Pinaceae ,Pinus nigra,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001156,egan.davis@ubc.ca,20190919001156
+,Sapindaceae,Acer circinatum ,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001241,seeds.trees,20190919001241
+1922,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001247,egan.davis@ubc.ca,20190919001247
+,Sapindaceae ,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001304,seeds.trees,20190919001304
+1925,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001323,egan.davis@ubc.ca,20190919001323
+1926,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001356,egan.davis@ubc.ca,20190919001356
+,Fagaceae,Fagus sylvatica,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001359,seeds.trees,20190919001427
+1927,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001430,egan.davis@ubc.ca,20190919001430
+1929,Pinaceae ,Pinus nigra,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001507,egan.davis@ubc.ca,20190919001507
+1957,Sapindaceae ,Aesculus hippocastanum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001526,seeds.trees,20190919001543
+,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001656,seeds.trees,20190919001656
+,Sapindaceae ,Acer circinatum ,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001716,seeds.trees,20190919001716
+,Sapindaceae ,Acer circinatum ,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001737,seeds.trees,20190919001737
+1931,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001813,egan.davis@ubc.ca,20190919001813
+,Pinaceae,Pinus,,,,,,,,,,,,,,,,,,,seeds.trees,20190919001827,seeds.trees,20190919001827
+1930,Pinaceae ,Pinus nigra ,,,,dead,,,,,,,,,,,,,,removed,egan.davis@ubc.ca,20190919001600,egan.davis@ubc.ca,20190919001836
+,,Liquidambar styraciflua,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190828235858,egan.davis@ubc.ca,20190828235858
+1932,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919001918,egan.davis@ubc.ca,20190919001918
+9778,Cornaceae,Cornus kousa,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002334,egan.davis@ubc.ca,20190919002334
+,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002416,seeds.trees,20190919002416
+,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002244,seeds.trees,20190919002441
+1933,Nyssaceae,Davidia involucrata,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002444,egan.davis@ubc.ca,20190919002444
+,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002511,seeds.trees,20190919002511
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002529,egan.davis@ubc.ca,20190919002529
+,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002538,seeds.trees,20190919002538
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002625,egan.davis@ubc.ca,20190919002625
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002647,egan.davis@ubc.ca,20190919002647
+1948,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002700,seeds.trees,20190919002700
+1949,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002623,seeds.trees,20190919002814
+1918,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002825,egan.davis@ubc.ca,20190919002825
+1919,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002856,egan.davis@ubc.ca,20190919002856
+1921,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919002857,seeds.trees,20190919002857
+1920,Pinaceae ,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919002943,egan.davis@ubc.ca,20190919002943
+,Betulaceae,Betula nigra ‘Heritage’,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003132,seeds.trees,20190919003132
+1913,Fagaceae ,Fagus sylvatica,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003135,egan.davis@ubc.ca,20190919003135
+,Betulaceae,Betula nigra ‘Heritage’,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003152,seeds.trees,20190919003152
+,Betulaceae,Betula nigra ‘Heritage’,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003212,seeds.trees,20190919003212
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003226,egan.davis@ubc.ca,20190919003226
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003250,egan.davis@ubc.ca,20190919003250
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003315,egan.davis@ubc.ca,20190919003315
+no,Pinaceae,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003339,egan.davis@ubc.ca,20190919003339
+,Rosaceae,Prunus ‘Sato-Zakura’ group,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003340,seeds.trees,20190919003340
+,Rosaceae,Prunus ‘Sato-Zakura’ group,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003445,seeds.trees,20190919003445
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003448,egan.davis@ubc.ca,20190919003448
+,Rosaceae,Prunus ‘Sato-Zakura’ group,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003506,seeds.trees,20190919003506
 6538,,Acer circinatum,Vine Maple,,,,,,,,,,,,,,,,,,PLAN,20190614175850,PLAN,20190620220305
 5312,,Pseudotsuga menziesii,Douglas-Fir,,,,,,,,,,,,,,,,,,PLAN,20190614175837,PLAN,20190620220305
 4842,,Acer palmatum,Japanese Maple,,,,,,,,,,,,,,,,,,PLAN,20190614175838,PLAN,20190620220305
@@ -2807,3 +2869,25 @@ TREEID,FAMILY,TAXA,COMMON_NAME,TAG,TAGID,LIVE_TREE,DBH,THEIGHT,HEIGHT_LIVETOP,HE
 6601,,Stewartia pseudocamellia,Korean Stewartia,,,,,,,,,,,,,,,,,,PLAN,20190614175904,PLAN,20190620220334
 4922,,Betula pendula,European White Birch,,,,,,,,,,,,,,,,,,PLAN,20190614175839,PLAN,20190620220335
 6480,,Pinus nigra,Black Pine,,,,,,,,,,,,,,,,,,PLAN,20190614175850,PLAN,20190620220335
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003511,egan.davis@ubc.ca,20190919003511
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003536,egan.davis@ubc.ca,20190919003536
+no,Pinaceae ,Pinus thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003554,egan.davis@ubc.ca,20190919003554
+no ,Pinus ,thunbergii ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003613,egan.davis@ubc.ca,20190919003613
+1859,Fagaceae ,Fagus sylvatica ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003709,egan.davis@ubc.ca,20190919003709
+,Circidiphyllaceae,Circidiphyllum japonicum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003715,seeds.trees,20190919003715
+9789,Sapindaceae ,Acer circinatum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003800,egan.davis@ubc.ca,20190919003800
+,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003846,seeds.trees,20190919003846
+9788,Sapindaceae ,Acer circinatum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003901,egan.davis@ubc.ca,20190919003901
+9781,Sapindaceae,Acer circinatum ,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003922,seeds.trees,20190919003922
+9782,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919003952,seeds.trees,20190919003952
+no,Cornaceae ,Cornus kousa ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919003959,egan.davis@ubc.ca,20190919003959
+,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919004021,seeds.trees,20190919004021
+,Sapindaceae,Acer circinatum,,,,,,,,,,,,,,,,,,,seeds.trees,20190919004044,seeds.trees,20190919004044
+0503,Sapindaceae ,Acer circinatum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919004049,egan.davis@ubc.ca,20190919004049
+no,Sapindaceae,Acer circinatum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919004150,egan.davis@ubc.ca,20190919004150
+9785,Sapindaceae,Acer circinatum ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919004306,egan.davis@ubc.ca,20190919004306
+1935,Rosaceae,Sorbus aucuparia,,,,,,,,,,,,,,,,,,,seeds.trees,20190919004307,seeds.trees,20190919004307
+1934,Rosaceae,Sorbus aucuparia,,,,,,,,,,,,,,,,,,,seeds.trees,20190919004521,seeds.trees,20190919004521
+1944,Pinaceae,Pinus nigra ,,,,,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190919005145,egan.davis@ubc.ca,20190919005145
+1945,Pinaceae,Pinus nigra,,,,,,,,,,,,,,,,,,,seeds.trees,20190919005146,seeds.trees,20190919005146
+10705,Taxacea,Taxus brevifolia,Pacific yew,,,live,,,,,,,,,,,,,,,egan.davis@ubc.ca,20190920223832,egan.davis@ubc.ca,20190920223832
