@@ -1,6 +1,9 @@
 ubcv-landscape
 ==============
 
+## These data are deprecated and new updates will appear here:
+https://github.com/UBCGeodata/ubc-geospatial-opendata/tree/master/ubcv/landscape
+
 UBC Vancouver landscape features.
 
 Datasets
